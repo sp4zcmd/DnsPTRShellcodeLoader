@@ -1,0 +1,2 @@
+# DnsPTRShellcodeLoader
+利用DNS的PTR记录远程加载shellcode
